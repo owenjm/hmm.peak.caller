@@ -1,3 +1,5 @@
+#!/usr/bin/env Rscript 
+
 # Quick and dirty HMM fitting to bedgraph / GFF bound genomic datasets
 # Copyright © 2020, Owen Marshall
 
